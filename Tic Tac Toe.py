@@ -1,4 +1,3 @@
-from fbs_runtime.application_context.PyQt5 import ApplicationContext
 from PySide6.QtWidgets import *
 from PySide6 import QtGui
 from PySide6.QtGui import *
